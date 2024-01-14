@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-4": {
+			"pay1\\": "src",
+			"pay1\\Gateways\\": "src/gateways",
+			"pay1\\Shortcodes\\": "src/shortcodes",
+			"pay1\\Traits\\": "src/traits"
+		}
+	}
+}
